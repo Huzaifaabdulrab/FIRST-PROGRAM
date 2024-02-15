@@ -1,2 +1,1 @@
-# FIRST-PROGRAM
-Its my first program in typescript
+QUESTION NO 1 
